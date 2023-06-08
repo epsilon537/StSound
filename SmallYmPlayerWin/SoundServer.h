@@ -1,6 +1,6 @@
 /*********************************************************************************
 
-	SoundServer - Written by Arnaud Carré (aka Leonard / OXYGENE)
+	SoundServer - Written by Arnaud Carrï¿½ (aka Leonard / OXYGENE)
 	Part of the "Leonard Homepage Articles".
 
 	PART 1: Using WaveOut API.
