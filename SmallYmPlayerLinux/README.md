@@ -1,4 +1,5 @@
-# SmallYmPlayer Linux Port.
+# SmallYmPlayer by Arnaud Carre (aka Leonard / OXYGENE).
+# Linux Port by Ruben Lysens / Epsilon537.
 
 The Linux port of the SmallYmPlayer is based on the [PortAudio](http://portaudio.com/) library.
 On Ubuntu, the following commands install the required packages:
